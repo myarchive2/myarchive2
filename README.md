@@ -1,4 +1,4 @@
-## (temel python-esp32)[kursu https://github.com/myarchive2/myarchive2/raw/refs/heads/main/Mod%C3%BCl%201.docx]
+[temel python-esp32](kursu https://github.com/myarchive2/myarchive2/raw/refs/heads/main/Mod%C3%BCl%201.docx)
 
 <!--
 **myarchive2/myarchive2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
