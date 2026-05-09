@@ -12,7 +12,6 @@
 
 * [kurban bayramı web sitesi kaynak kodu2](https://github.com/cerahcear-boop/cerahcear-boop)
 
-https://github.com/YZEngineer/YZEngineer/settings/pages
 <!--
 **myarchive2/myarchive2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
