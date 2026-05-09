@@ -1,8 +1,12 @@
+# esp32 ile ilgili
+
+
 * [101 python-esp32 ](https://github.com/myarchive2/myarchive2/raw/refs/heads/main/Mod%C3%BCl%201.docx)
 
 
 * [esp32 wifi bağlama(led kontrol)](https://github.com/myarchive2/101-esp32/tree/main/wifi)
 
+# web geliştirme
 
 * [kurban bayramı web sitesi yayınlanmış sayfa ](https://yzengineer.github.io/YZEngineer/)
 
@@ -11,7 +15,7 @@
 
 
 * [kurban bayramı web sitesi kaynak kodu2](https://github.com/cerahcear-boop/cerahcear-boop)
-
+# yapay zeka araçları
 * [antigraviti](https://antigravity.google/download)
   
 * [opencode](https://opencode.ai/download)
