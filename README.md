@@ -3,8 +3,14 @@
 
 * [101 python-esp32 ](https://github.com/myarchive2/myarchive2/raw/refs/heads/main/Mod%C3%BCl%201.docx)
 
-
+https://wokwi.com/
 * [esp32 wifi bağlama(led kontrol)](https://github.com/myarchive2/101-esp32/tree/main/wifi)
+
+ ## devre simulasyon
+ 
+* [wowki ](https://wokwi.com/)
+
+* [tinkercad ](https://wokwi.com/)
 
 # web geliştirme
 
