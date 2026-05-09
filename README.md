@@ -1,10 +1,16 @@
-[101 python-esp32 ](https://github.com/myarchive2/myarchive2/raw/refs/heads/main/Mod%C3%BCl%201.docx)
+* [101 python-esp32 ](https://github.com/myarchive2/myarchive2/raw/refs/heads/main/Mod%C3%BCl%201.docx)
 
 
-[esp32 wifi bağlama(led kontrol)](https://github.com/myarchive2/101-esp32/tree/main/wifi)
-[kurban bayramı web sitesi yayınlanmış sayfa ](https://yzengineer.github.io/YZEngineer/)
-[kurban bayramı web sitesi kaynak kodu](https://github.com/YZEngineer/yzengineer)
-[kurban bayramı web sitesi kaynak kodu2](https://github.com/cerahcear-boop/cerahcear-boop)
+* [esp32 wifi bağlama(led kontrol)](https://github.com/myarchive2/101-esp32/tree/main/wifi)
+
+
+* [kurban bayramı web sitesi yayınlanmış sayfa ](https://yzengineer.github.io/YZEngineer/)
+
+
+* [kurban bayramı web sitesi kaynak kodu](https://github.com/YZEngineer/yzengineer)
+
+
+* [kurban bayramı web sitesi kaynak kodu2](https://github.com/cerahcear-boop/cerahcear-boop)
 
 https://github.com/YZEngineer/YZEngineer/settings/pages
 <!--
