@@ -2,7 +2,11 @@
 
 
 [esp32 wifi bağlama(led kontrol)](https://github.com/myarchive2/101-esp32/tree/main/wifi)
+[kurban bayramı web sitesi yayınlanmış sayfa ](https://yzengineer.github.io/YZEngineer/)
+[kurban bayramı web sitesi kaynak kodu](https://github.com/YZEngineer/yzengineer)
+[kurban bayramı web sitesi kaynak kodu2](https://github.com/cerahcear-boop/cerahcear-boop)
 
+https://github.com/YZEngineer/YZEngineer/settings/pages
 <!--
 **myarchive2/myarchive2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
