@@ -12,6 +12,14 @@
 
 * [kurban bayramı web sitesi kaynak kodu2](https://github.com/cerahcear-boop/cerahcear-boop)
 
+* [antigraviti](https://antigravity.google/download)
+  
+* [opencode](https://opencode.ai/download)
+  
+* [diğer](https://github.com/YZEngineer/faydaliurl/tree/main)
+
+
+
 <!--
 **myarchive2/myarchive2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
