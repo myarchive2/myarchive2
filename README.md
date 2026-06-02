@@ -121,7 +121,7 @@
 ### 📬 İletişim
 
 <p align="center">
-  <a href="engineerjafarasi%40gmail.com"> engineerjafarasi@gmail.com </a>
+  <p> engineerjafarasi@gmail.com </p>
   <a href="https://wa.me/905378142730">
     <img src="https://img.shields.io/badge/+90%20537%20814%2027%2030-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
