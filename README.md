@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,ros,cpp,flutter,dart,html,css,js,arduino,linux,git,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,ros,cpp,flutter,dart,html,css,js,arduino,linux,git,nodejs,anaconda,c,cs,dotnet,nextjs,react,bootstrap,unity,sqlite&perline=23" />
   </a>
 </p>
 
@@ -32,6 +32,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF6B6B?style=for-the-badge&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-FF6B6B?style=for-the-badge&logo=anaconda&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF6B6B?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6B6B?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF6B6B?style=for-the-badge&logoColor=white)
 
 **Görüntü / Sinyal**
 
@@ -45,6 +50,8 @@
 ![C++](https://img.shields.io/badge/C++-00D68F?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00D68F?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-00D68F?style=for-the-badge&logo=espressif&logoColor=white)
+![C](https://img.shields.io/badge/C-00D68F?style=for-the-badge&logo=c&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-00D68F?style=for-the-badge&logo=unity&logoColor=white)
 
 **Web / Mobil**
 
@@ -53,6 +60,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-00B4D8?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00B4D8?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-00B4D8?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-00B4D8?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-00B4D8?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00B4D8?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00B4D8?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-00B4D8?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-00B4D8?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00B4D8?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 <br>
@@ -61,6 +75,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=myarchive2&theme=tokyonight&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=myarchive2&theme=tokyonight&no-frame=true" width="95%" />
 </p>
 
 <br>
@@ -103,11 +121,12 @@
 ### 📬 İletişim
 
 <p align="center">
-  <a href="mailto:engineerjafarasi@gmail.com">
-    <img src="https://img.shields.io/badge/engineerjafarasi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/engineerjafarasi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   <a href="https://wa.me/905378142730">
     <img src="https://img.shields.io/badge/+90%20537%20814%2027%2030-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://yzengineer.github.io/yzengineer">
+    <img src="https://img.shields.io/badge/yzengineer.github.io%2Fyzengineer-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
