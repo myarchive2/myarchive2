@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,ros,cpp,flutter,dart,html,css,js,arduino,linux,git&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,ros,cpp,flutter,dart,html,css,js,arduino,linux,git,nodejs&perline=14" />
   </a>
 </p>
 
@@ -52,18 +52,15 @@
 ![Dart](https://img.shields.io/badge/Dart-00B4D8?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-00B4D8?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00B4D8?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00B4D8?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 <br>
 
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myarchive2&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myarchive2&layout=compact&theme=tokyonight&hide_border=true&locale=tr" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=myarchive2&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myarchive2&theme=tokyonight&hide_border=true&area=true" width="95%" />
 </p>
 
 <br>
@@ -106,14 +103,9 @@
 ### 📬 İletişim
 
 <p align="center">
-  <a href="mailto:engineerjafarasi@gmail.com">
-    <img src="https://img.shields.io/badge/engineerjafarasi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  [![Email](https://img.shields.io/badge/engineerjafarasi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineerjafarasi@gmail.com)
   <a href="https://wa.me/905378142730">
     <img src="https://img.shields.io/badge/+90%20537%20814%2027%2030-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://github.com/myarchive2">
-    <img src="https://img.shields.io/badge/github.com/myarchive2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
