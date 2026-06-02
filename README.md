@@ -1,123 +1,22 @@
-<br>
+# Hi 👋, I'm JAFAR ASİ
 
-<table>
-  <tr>
-    <td style="background:#0f1419; border:1px solid #1e2d3d; border-radius:8px; padding:0; width:100%; max-width:780px; font-family:JetBrains Mono, monospace;">
-      <div style="background:#161c24; padding:8px 16px; border-radius:8px 8px 0 0; text-align:left;">
-        <span style="color:#ff5f57;">●</span>
-        <span style="color:#febc2e;">●</span>
-        <span style="color:#28c840;">●</span>
-        <span style="color:#6c7a89; font-size:12px; float:right;">bash — jafar@profile ~ — 80×24</span>
-      </div>
-      <div style="padding:20px; color:#cdd6f4; font-size:14px; line-height:1.6;">
-        <span style="color:#00d68f;">~/profile $</span>
-        <span style="color:#00b4d8;">cat</span>
-        <span style="color:#ff9f43;">whoami.txt</span>
-        <br><br>
-        <span style="color:#ffffff; font-size:28px; font-weight:700;">Jafar <span style="color:#00d68f;">Asi</span></span>
-        <br>
-        <span style="color:#00b4d8;">Bilgisayar Mühendisi</span>
-        <span style="color:#6c7a89;"> | </span>
-        <span style="color:#ff9f43;">Ar-Ge · YZ · Full Stack · Android</span>
-        <br>
-        <span style="color:#cdd6f4;">
-          YZ/ML, Bilgisayarlı Görü, Sinyal &amp; Görüntü İşleme,<br>
-          ROS Robotik, Full Stack Web, Flutter Mobil ve Gömülü Sistemler.<br>
-          <span style="color:#ff9f43;">Bursa, Türkiye</span> · Uludağ Üniversitesi
-        </span>
-        <br><br>
-        <span style="color:#00d68f;">~/profile $</span>
-        <span style="color:#00b4d8;">ls</span>
-        <span style="color:#ff9f43;">--yetenekler --projeler --iletisim</span>
-      </div>
-    </td>
-  </tr>
-</table>
+### A passionate Python developer
 
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myarchive2" alt="myarchive2" /></a> </p>
 
-<table>
-  <tr>
-    <th colspan="2" style="text-align:center; color:#00d68f; font-size:16px;">Yetenekler</th>
-  </tr>
-  <tr>
-    <th style="color:#ff9f43;">YZ / ML</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Python-0a0e13?style=flat-square&logo=python&logoColor=00d68f">
-      <img src="https://img.shields.io/badge/-TensorFlow-0a0e13?style=flat-square&logo=tensorflow&logoColor=00d68f">
-      <img src="https://img.shields.io/badge/-scikit--learn-0a0e13?style=flat-square&logo=scikit-learn&logoColor=00d68f">
-      <img src="https://img.shields.io/badge/-YOLO-0a0e13?style=flat-square&logo=YOLO&logoColor=00d68f">
-    </td>
-  </tr>
-  <tr>
-    <th style="color:#ff9f43;">Görüntü / Sinyal</th>
-    <td>
-      <img src="https://img.shields.io/badge/-OpenCV-0a0e13?style=flat-square&logo=opencv&logoColor=00d68f">
-      <img src="https://img.shields.io/badge/-NumPy-0a0e13?style=flat-square&logo=numpy&logoColor=00d68f">
-      <img src="https://img.shields.io/badge/-SciPy-0a0e13?style=flat-square&logo=scipy&logoColor=00d68f">
-    </td>
-  </tr>
-  <tr>
-    <th style="color:#ff9f43;">Robotik</th>
-    <td>
-      <img src="https://img.shields.io/badge/-ROS-0a0e13?style=flat-square&logo=ros&logoColor=00b4d8">
-      <img src="https://img.shields.io/badge/-C++-0a0e13?style=flat-square&logo=cplusplus&logoColor=00b4d8">
-      <img src="https://img.shields.io/badge/-Arduino-0a0e13?style=flat-square&logo=arduino&logoColor=00b4d8">
-      <img src="https://img.shields.io/badge/-ESP32-0a0e13?style=flat-square&logo=espressif&logoColor=00b4d8">
-    </td>
-  </tr>
-  <tr>
-    <th style="color:#ff9f43;">Web / Mobil</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Flutter-0a0e13?style=flat-square&logo=flutter&logoColor=00b4d8">
-      <img src="https://img.shields.io/badge/-Dart-0a0e13?style=flat-square&logo=dart&logoColor=00b4d8">
-      <img src="https://img.shields.io/badge/-HTML+CSS-0a0e13?style=flat-square&logo=html5&logoColor=00b4d8">
-      <img src="https://img.shields.io/badge/-JavaScript-0a0e13?style=flat-square&logo=javascript&logoColor=00b4d8">
-    </td>
-  </tr>
-</table>
+- 📝 I regularly write articles on **[https://cerahcear-boop.github.io/cerahcear-boop/?name=canim](https://cerahcear-boop.github.io/cerahcear-boop/?name=canim)**
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/myarchive2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="myarchive2" height="30" width="40" /></a>
+</p>
 
-**Projeler**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
-| Proje | Açıklama | Link |
-|-------|----------|------|
-| 🚗 Otonom Araç & İHA Sistemi | ROS, C++, CV, Navigasyon | — |
-| 💓 rPPG — Uzaktan Nabız Ölçümü | Python, OpenCV, FFT, Sinyal İşl. | [→](https://github.com/myarchive2/rppg-url) |
-| 🤖 AI Python — ML Notebooklar | TensorFlow, YOLO, Jupyter | [→](https://github.com/MuslimEngineer/aiPiton) |
-| 📱 Flutter Android Uygulamaları | Flutter, Dart, Temiz Arayüz | [→](https://github.com/MuslimEngineer/MuslimEngineer) |
-| 🔌 ESP32 IoT — WiFi LED Kontrolü | MicroPython, ESP32, IoT | [→](https://github.com/myarchive2/101-esp32) |
-| 🌐 Web Projeleri | HTML/CSS/JS, Bootstrap, C# | [→](https://github.com/myarchive2/101-web) |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myarchive2&show_icons=true&locale=en&layout=compact" alt="myarchive2" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myarchive2&show_icons=true&locale=en" alt="myarchive2" /></p>
 
-**GitHub Hesapları**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myarchive2&" alt="myarchive2" /></p>
 
-| Hesap | Açıklama |
-|-------|----------|
-| [myarchive2](https://github.com/myarchive2) | Ana arşiv |
-| [MuslimEngineer](https://github.com/MuslimEngineer) | YZ · ML · C# |
-| [CaferAsi](https://github.com/CaferAsi) | Kişisel |
-| [YZEngineer](https://github.com/YZEngineer) | Web · Otomasyon |
-| [E-BU-LUT](https://github.com/E-BU-LUT) 
-
-<br>
-
-**Diller**
-
-| Dil | Seviye |
-|-----|--------|
-| 🇹🇷 Türkçe | Anadil |
-| 🇸🇦 Arapça | Anadil |
-| 🇬🇧 İngilizce | Başlangıç |
-
-<br>
-
-**İletişim**
-
-| 📧 | engineerjafarasi@gmail.com |
-|----|---------------------------|
-| 📞 | [+90 537 814 27 30](tel:+905378142730) |
-| 💬 | [WhatsApp](https://wa.me/905378142730) |
-| 🔗 | [github.com/myarchive2](https://github.com/myarchive2) |
