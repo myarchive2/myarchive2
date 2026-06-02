@@ -121,7 +121,3 @@
 | 📞 | [+90 537 814 27 30](tel:+905378142730) |
 | 💬 | [WhatsApp](https://wa.me/905378142730) |
 | 🔗 | [github.com/myarchive2](https://github.com/myarchive2) |
-
-<p align="center">
-  <span style="color:#6c7a89;">built with ❤️ · 2025</span>
-</p>
