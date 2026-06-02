@@ -1,22 +1,122 @@
-# Hi 👋, I'm JAFAR ASİ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d68f,00b4d8&height=200&section=header&text=Jafar%20Asi&fontSize=50&fontColor=ffffff" width="100%"/>
 
-### A passionate Python developer
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myarchive2" alt="myarchive2" /></a> </p>
-
-- 📝 I regularly write articles on **[https://cerahcear-boop.github.io/cerahcear-boop/?name=canim](https://cerahcear-boop.github.io/cerahcear-boop/?name=canim)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/myarchive2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="myarchive2" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00D68F&width=600&lines=Bilgisayar+M%C3%BChendisi;YZ%2FML+%C2%B7+Robotik+%C2%B7+Full+Stack;Ar-Ge+ve+Teknoloji+Geli%C5%9Ftirme" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=myarchive2&label=Ziyaret%C3%A7i&color=00d68f&style=flat-square" alt="ziyaretçi sayacı" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myarchive2&show_icons=true&locale=en&layout=compact" alt="myarchive2" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myarchive2&show_icons=true&locale=en" alt="myarchive2" /></p>
+### 🛠️ Teknolojiler
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myarchive2&" alt="myarchive2" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,ros,cpp,flutter,dart,html,css,js,arduino,linux,git&perline=13" />
+  </a>
+</p>
 
+<br>
+
+### ⚡ Yetenekler
+
+**YZ / ML**
+
+![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF6B6B?style=for-the-badge&logoColor=white)
+
+**Görüntü / Sinyal**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-FF9F43?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF9F43?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-FF9F43?style=for-the-badge&logo=scipy&logoColor=white)
+
+**Robotik**
+
+![ROS](https://img.shields.io/badge/ROS-00D68F?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00D68F?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00D68F?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-00D68F?style=for-the-badge&logo=espressif&logoColor=white)
+
+**Web / Mobil**
+
+![Flutter](https://img.shields.io/badge/Flutter-00B4D8?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-00B4D8?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00B4D8?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00B4D8?style=for-the-badge&logo=javascript&logoColor=white)
+
+<br>
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=myarchive2&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myarchive2&layout=compact&theme=tokyonight&hide_border=true&locale=tr" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=myarchive2&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+<br>
+
+### 📁 Projeler
+
+| Proje | Açıklama | Link |
+|-------|----------|------|
+| 🚗 Otonom Araç & İHA Sistemi | ROS, C++, CV, Navigasyon | — |
+| 💓 rPPG — Uzaktan Nabız Ölçümü | Python, OpenCV, FFT, Sinyal İşl. | [→](https://github.com/myarchive2/rppg-url) |
+| 🤖 AI Python — ML Notebooklar | TensorFlow, YOLO, Jupyter | [→](https://github.com/MuslimEngineer/aiPiton) |
+| 📱 Flutter Android Uygulamaları | Flutter, Dart, Temiz Arayüz | [→](https://github.com/MuslimEngineer/MuslimEngineer) |
+| 🔌 ESP32 IoT — WiFi LED Kontrolü | MicroPython, ESP32, IoT | [→](https://github.com/myarchive2/101-esp32) |
+| 🌐 Web Projeleri | HTML/CSS/JS, Bootstrap, C# | [→](https://github.com/myarchive2/101-web) |
+
+<br>
+
+### 👥 GitHub Hesapları
+
+| Hesap | Açıklama |
+|-------|----------|
+| [myarchive2](https://github.com/myarchive2) | Ana arşiv |
+| [MuslimEngineer](https://github.com/MuslimEngineer) | YZ · ML · C# |
+| [CaferAsi](https://github.com/CaferAsi) | Kişisel |
+| [YZEngineer](https://github.com/YZEngineer) | Web · Otomasyon |
+| [E-BU-LUT](https://github.com/E-BU-LUT) | — |
+
+<br>
+
+### 🌐 Diller
+
+| Dil | Seviye |
+|-----|--------|
+| 🇹🇷 Türkçe | Anadil |
+| 🇸🇦 Arapça | Anadil |
+| 🇬🇧 İngilizce | Başlangıç |
+
+<br>
+
+### 📬 İletişim
+
+<p align="center">
+  <a href="mailto:engineerjafarasi@gmail.com">
+    <img src="https://img.shields.io/badge/engineerjafarasi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/905378142730">
+    <img src="https://img.shields.io/badge/+90%20537%20814%2027%2030-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/myarchive2">
+    <img src="https://img.shields.io/badge/github.com/myarchive2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8,00d68f&height=120&section=footer" width="100%"/>
